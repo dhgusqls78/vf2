@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    오아오아오
+    title 수정
     <div id="nav">
       <router-link to="/">원숭이</router-link> |
       <router-link to="/about">monkey</router-link>
